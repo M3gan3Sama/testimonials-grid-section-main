@@ -43,3 +43,16 @@ I still have some difficulty to use grid for responsive layouts.
 ## Author
 - Website - [M3gan3Sama](https://github.com/M3gan3Sama)
 - Frontend Mentor - [@M3gan3Sama](https://www.frontendmentor.io/profile/M3gan3Sama)
+
+## Table of contents
+- [Frontend Mentor - Testimonials grid section](#frontend-mentor---testimonials-grid-section)
+  - [Wellcome 👋](#wellcome-)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
+  - [Table of contents](#table-of-contents)
