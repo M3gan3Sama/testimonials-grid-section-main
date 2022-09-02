@@ -11,5 +11,6 @@ This challenge should be responsive and as close as possible to the template.
 
 ### Screenshot
 ![Desktop preview](./design/ms-desktop-design.jpg)
+![Desktop preview](./design/ms-laptop-design.jpg)
 ### Links
 
