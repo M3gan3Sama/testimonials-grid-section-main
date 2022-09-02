@@ -44,7 +44,7 @@ main > * {
 main > *:first-child {
   grid-area: dan;
   background-color: var(--moderate-violet);
-  background-image: url(./images/bg-pattern-quotation.svg);
+  background-image: url(../images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: 82% 0;
 }
