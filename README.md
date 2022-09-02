@@ -10,7 +10,6 @@ The challenge is a layout that shows five cards in specific order.
 This challenge should be responsive and as close as possible to the template.
 
 ### Screenshot
-![Desktop preview](./design/ms-desktop-design.jpg)
-![Desktop preview](./design/ms-laptop-design.jpg)
+![Desktop preview](./design/ms-all-in-one-design.jpg))
 ### Links
 
